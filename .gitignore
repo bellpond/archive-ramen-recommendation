@@ -1,0 +1,5 @@
+.devcontainer/
+
+# csv file は不要
+*.csv
+
